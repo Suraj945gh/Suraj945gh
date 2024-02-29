@@ -1,27 +1,55 @@
-👋 Welcome to My GitHub Playground! 🚀
+<h2 align="left">Hey there! I'm Surajsingh Rajpurohit, a tech enthusiast and aspiring content creator. Here, you'll find a collection of my projects showcasing my journey in Python, web development, and more. Feel free to explore and connect – let's collaborate and innovate together! 🌟</h2>
 
-Hey there, fellow coders, explorers, and tech enthusiasts! I'm thrilled to have you drop by my corner of the coding cosmos. 👨‍💻
+###
 
-🔭 Who Am I?
-I go by Surajsingh Rajpurohit, and I'm a tech enthusiast, a programming prodigy in the making, and an aspiring content creator. 
-Currently pursuing my BTech, I'm always on a quest to bridge the gap between imagination and innovation. 
-From crafting elegant lines of code to deciphering the enigmatic cosmos, my journey is a blend of logic and mysticism. 🌌✨
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj945gh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suraj945gh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-🌐 What You'll Find Here:
-Within the realms of this digital haven, you'll stumble upon a myriad of projects, each a glimpse into my journey of growth. 
-From Python wizardry to the secrets of web development, I'm on a constant quest to expand my tech toolkit. 
-But that's not all! Beyond the lines of code, you'll find the echoes of my artistic ventures, and perhaps even a dash of my fascination with the celestial tapestry above. 🎨🚀
+###
 
-🌟 Join the Quest:
-Feel free to wander through my repositories, tinker with my creations, and join me in exploring the intersection of technology and creativity. 
-If you're a kindred spirit who's captivated by the cosmos and seeks to master the language of innovation, let's connect and traverse the digital universe together! 🌐👥
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="cmake logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
+  <img width="29" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" alt="ubuntu logo"  />
+  <img width="29" />
+  <img src="https://cdn.simpleicons.org/ros/22314E" height="50" alt="ros logo"  />
+</div>
 
-📬 Let's Connect:
-Are you looking to collaborate, discuss, or dive into the depths of the unknown? 
-Don't hesitate to reach out – the universe of ideas is boundless, and I'm excited to explore it with you. 💌
+###
 
-Happy coding, and remember: every line of code is a step toward shaping the future! 🌈🚀
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-Stay curious, stay creative,
 
-Surajsingh Rajpurohit
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Suraj945gh/count.svg?"  />
+</div>
+
+###
