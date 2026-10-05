@@ -148,11 +148,6 @@ const suraj = {
   </p>
 </details>
 
-<!-- ============================ MEDIUM ============================ -->
-## `$ tail -f medium.feed` <img src="assets/gifs/hacker-cat.gif" width="40" alt="" />
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <!-- ============================ QUOTE + FOOTER ============================ -->
 <br/>
