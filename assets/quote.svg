@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="236" viewBox="0 0 1030 236" role="img" aria-label="Ship it. Then make it better.">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00FF41"/><stop offset="1" stop-color="#00F5FF"/></linearGradient>
+  <filter id="glow" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  text { font-family: Consolas,'DejaVu Sans Mono','Courier New',monospace; font-size: 11px; white-space: pre; fill: url(#g); }
+  .art { filter: url(#glow); animation: flicker 6s infinite; }
+  .sig { font-size: 13px; fill: #8B949E; }
+  @keyframes flicker { 0%,92%,100% { opacity: 1; } 93% { opacity: .55; } 94% { opacity: 1; } 96% { opacity: .7; } 97% { opacity: 1; } }
+</style>
+<rect width="1030" height="236" rx="12" fill="#0D1117"/>
+<g class="art">
+<text x="373.1" y="34.0" textLength="283.8" lengthAdjust="spacingAndGlyphs">███████╗██╗  ██╗██╗██████╗     ██╗████████╗</text>
+<text x="373.1" y="46.5" textLength="283.8" lengthAdjust="spacingAndGlyphs">██╔════╝██║  ██║██║██╔══██╗    ██║╚══██╔══╝</text>
+<text x="373.1" y="59.0" textLength="264.0" lengthAdjust="spacingAndGlyphs">███████╗███████║██║██████╔╝    ██║   ██║</text>
+<text x="373.1" y="71.5" textLength="264.0" lengthAdjust="spacingAndGlyphs">╚════██║██╔══██║██║██╔═══╝     ██║   ██║</text>
+<text x="373.1" y="84.0" textLength="283.8" lengthAdjust="spacingAndGlyphs">███████║██║  ██║██║██║         ██║   ██║██╗</text>
+<text x="373.1" y="96.5" textLength="283.8" lengthAdjust="spacingAndGlyphs">╚══════╝╚═╝  ╚═╝╚═╝╚═╝         ╚═╝   ╚═╝╚═╝</text>
+<text x="29.9" y="119.0" textLength="943.8" lengthAdjust="spacingAndGlyphs">████████╗██╗  ██╗███████╗███╗   ██╗    ███╗   ███╗ █████╗ ██╗  ██╗███████╗    ██╗████████╗    ██████╗ ███████╗████████╗████████╗███████╗██████╗</text>
+<text x="29.9" y="131.5" textLength="950.4" lengthAdjust="spacingAndGlyphs">╚══██╔══╝██║  ██║██╔════╝████╗  ██║    ████╗ ████║██╔══██╗██║ ██╔╝██╔════╝    ██║╚══██╔══╝    ██╔══██╗██╔════╝╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗</text>
+<text x="29.9" y="144.0" textLength="950.4" lengthAdjust="spacingAndGlyphs">   ██║   ███████║█████╗  ██╔██╗ ██║    ██╔████╔██║███████║█████╔╝ █████╗      ██║   ██║       ██████╔╝█████╗     ██║      ██║   █████╗  ██████╔╝</text>
+<text x="29.9" y="156.5" textLength="950.4" lengthAdjust="spacingAndGlyphs">   ██║   ██╔══██║██╔══╝  ██║╚██╗██║    ██║╚██╔╝██║██╔══██║██╔═██╗ ██╔══╝      ██║   ██║       ██╔══██╗██╔══╝     ██║      ██║   ██╔══╝  ██╔══██╗</text>
+<text x="29.9" y="169.0" textLength="970.2" lengthAdjust="spacingAndGlyphs">   ██║   ██║  ██║███████╗██║ ╚████║    ██║ ╚═╝ ██║██║  ██║██║  ██╗███████╗    ██║   ██║       ██████╔╝███████╗   ██║      ██║   ███████╗██║  ██║██╗</text>
+<text x="29.9" y="181.5" textLength="970.2" lengthAdjust="spacingAndGlyphs">   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝   ╚═╝       ╚═════╝ ╚══════╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝</text>
+</g>
+<text class="sig" x="515.0" y="222" text-anchor="middle">~ suraj, on shipping</text>
+</svg>
