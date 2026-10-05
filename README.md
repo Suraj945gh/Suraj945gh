@@ -52,6 +52,15 @@ const suraj = {
 
 <br clear="right" />
 
+<details>
+  <summary>📍 <b>Yes, that Times Square billboard</b> (click to see)</summary>
+  <br/>
+  <p align="center">
+    <img src="assets/billboard-closeup.jpg" width="80%" alt="Surajsingh Rajpurohit featured on a Times Square billboard by Topmate" />
+    <br/><sub><i>Featured by Topmate in Times Square, NYC, after ranking among its Top 500 freelancers globally</i></sub>
+  </p>
+</details>
+
 <!-- ============================ TECH STACK ============================ -->
 <details open>
   <summary><h2>🛠️ Tech Stack</h2></summary>

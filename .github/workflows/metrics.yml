@@ -1,5 +1,5 @@
 # Generates assets/metrics.svg daily. Uses your own token so private contributions are counted.
-# Setup: add a repository secret named METRICS_TOKEN (classic PAT with scopes: repo, read:org, read:user).
+# Setup: repository secret METRICS_TOKEN (classic PAT with scopes: repo, read:org, read:user).
 name: Metrics
 
 on:
@@ -18,11 +18,16 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics.svg
-          base: header, activity, community, repositories, metadata
+          # header + activity + community only: drops the noisy repository rows (releases, packages, MB used, sponsors)
+          base: header, activity, community, metadata
           config_timezone: Asia/Kolkata
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
+          plugin_languages_ignored: jupyter notebook, cython
+          # terminal theme: neon green headings, cyan icons, grey text
+          extras_css: |
+            h2, h2 a, .field a, section > .field:first-child { color: #00FF41 !important; }
+            .field, .field span { color: #8B949E !important; }
+            svg.octicon, .field svg { fill: #00F5FF !important; }
