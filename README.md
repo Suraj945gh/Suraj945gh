@@ -56,7 +56,11 @@ const suraj = {
   <summary>📍 <b>Yes, that Times Square billboard where I got featured</b> (click to see)</summary>
   <br/>
   <p align="center">
-    <img src="assets/billboard-closeup.jpg" width="80%" alt="Surajsingh Rajpurohit featured on a Times Square billboard by Topmate" />
+    <img src="assets/billboard2.jpg" width="90%" alt="Surajsingh Rajpurohit featured on a Times Square billboard by Topmate, close-up at night" />
+  </p>
+  <p align="center">
+    <img src="assets/billboard1.jpg" width="44.5%" alt="The billboard in Times Square during the day" />
+    <img src="assets/billboard3.jpg" width="44.5%" alt="The billboard in Times Square at night, with the crowd below" />
     <br/><sub><i>Featured by Topmate on a Times Square billboard, NYC, after ranking among its Top 500 freelancers globally</i></sub>
   </p>
 </details>
