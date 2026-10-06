@@ -28,6 +28,6 @@ jobs:
           plugin_languages_ignored: jupyter notebook, cython
           # terminal theme: neon green headings, cyan icons, grey text
           extras_css: |
-            h2, h2 a, .field a, section > .field:first-child { color: #00FF41 !important; }
             .field, .field span { color: #8B949E !important; }
             svg.octicon, .field svg { fill: #00F5FF !important; }
+            h1.field, h1.field span, h2.field, h2.field span, h2 a, .field a { color: #00FF41 !important; }
