@@ -42,22 +42,22 @@ const suraj = {
 
 <img align="right" src="assets/gifs/moss-fire.gif" width="330" alt="Moss from The IT Crowd calmly typing while a fire burns" />
 
-- 🎙️ Built **Say It Again**, a speech-practice loop on **STT → LLM → TTS**, and cut **3–4s** of voice lag
-- 📺 Shipped **Voki's World** from prototype to production: a kids' story-video library with **470+ views**
-- 🧪 Took a backend test suite to **971/971 passing** (100% coverage on my feature)
-- 🤖 Built **5+ AI agents** and **2 voice agents** that automated an agency's workflows
+- Built **Say It Again**, a speech-practice loop on **STT → LLM → TTS**, and cut **3–4s** of voice lag 🎙️
+- Shipped **Voki's World** from prototype to production: a kids' story-video library with **500+ views** 📺
+- Took a backend test suite to **971/971 passing** (100% coverage on my feature) 🧪
+- Built **5+ AI agents** and **2 voice agents** that automated an agency's workflows 🤖
 - 🏆 **Top 10** of 1,000+ registrations at the **Media.net aiVOLUTION Hackathon**
 - ✍️ **LinkedIn Top Voice ×2** (1.4M+ impressions) · **Top 1% Topmate mentor** · featured on the **Times Square billboard**
-- 🔥 Fun fact: that's me in prod. Calm, typing, everything under control.
+- PS: that's me in prod. Calm, typing, everything under control. 🙃
 
 <br clear="right" />
 
 <details>
-  <summary>📍 <b>Yes, that Times Square billboard</b> (click to see)</summary>
+  <summary>📍 <b>Yes, that Times Square billboard where I got featured</b> (click to see)</summary>
   <br/>
   <p align="center">
     <img src="assets/billboard-closeup.jpg" width="80%" alt="Surajsingh Rajpurohit featured on a Times Square billboard by Topmate" />
-    <br/><sub><i>Featured by Topmate in Times Square, NYC, after ranking among its Top 500 freelancers globally</i></sub>
+    <br/><sub><i>Featured by Topmate on a Times Square billboard, NYC, after ranking among its Top 500 freelancers globally</i></sub>
   </p>
 </details>
 
