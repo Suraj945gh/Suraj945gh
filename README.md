@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Suraj945gh.Suraj945gh&left_text=profile%20views&left_color=%230D1117&right_color=%2300FF41" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Suraj945gh?label=followers&style=flat-square&color=00F5FF&labelColor=0D1117" alt="Followers" />
+  <img src="https://hits.sh/github.com/Suraj945gh.svg?label=profile%20views&color=39FF6A&labelColor=0D1117&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Suraj945gh?label=followers&style=flat-square&color=33F8FF&labelColor=0D1117" alt="Followers" />
 </p>
 
 <!-- ============================ WHOAMI ============================ -->
