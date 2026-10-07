@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suraj945gh&label=profile%20views&color=00FF41&style=flat-square" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Suraj945gh.Suraj945gh&left_text=profile%20views&left_color=%230D1117&right_color=%2300FF41" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Suraj945gh?label=followers&style=flat-square&color=00F5FF&labelColor=0D1117" alt="Followers" />
 </p>
 
