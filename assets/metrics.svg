@@ -42,9 +42,9 @@ h1.field, h1.field span, h2.field, h2.field span, h2 a, .field a { color: #00FF4
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -155,12 +155,12 @@ h1.field, h1.field span, h2.field, h2.field span, h2 a, .field a { color: #00FF4
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.34309983182635" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="391.34309983182635" y="0" width="55.27008519142249" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.61318502324883" y="0" width="4.148686121241559" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.7618711444904" y="0" width="3.8891900816407374" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.65106122613116" y="0" width="3.141061825142424" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.79212305127356" y="0" width="2.207876948726467" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.07244185411446" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="391.07244185411446" y="0" width="55.55000166448325" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.6224435185977" y="0" width="4.1458168359616625" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.76826035455935" y="0" width="3.8865002671968734" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.6547606217563" y="0" width="3.138889425931025" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.79365004768727" y="0" width="2.206349952312743" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -203,7 +203,7 @@ h1.field, h1.field span, h2.field, h2.field span, h2 a, .field a { color: #00FF4
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2026, 05:01:11 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2026, 04:19:15 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
