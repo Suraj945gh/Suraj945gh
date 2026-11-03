@@ -155,12 +155,12 @@ h1.field, h1.field span, h2.field, h2.field span, h2 a, .field a { color: #00FF4
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.0897448635321" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="388.0897448635321" y="0" width="58.20731388356557" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.2970587470976" y="0" width="4.114196823716612" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.4112555708142" y="0" width="3.8568580541176147" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.2681136249318" y="0" width="3.1149492167971173" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.38306284172893" y="0" width="2.6169371582710443" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.0834067897608" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="388.0834067897608" y="0" width="58.21387574643126" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.29728253619203" y="0" width="4.114129632858509" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.41141216905055" y="0" width="3.8567950659784125" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.26820723502897" y="0" width="3.114898345115525" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.3831055801445" y="0" width="2.616894419855553" height="8" fill="#336790"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -203,7 +203,7 @@ h1.field, h1.field span, h2.field, h2.field span, h2 a, .field a { color: #00FF4
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2026, 06:39:29 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 4 Nov 2026, 05:05:29 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
